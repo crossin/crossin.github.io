@@ -92,7 +92,8 @@
   color: #ffffff;
 }
 
-.icon-zhihu:before { content: '\e800'; } /* '' */
+.icon-bilibili:before { content: '\e800'; } /* '' */
+.icon-zhihu:before { content: '\e801'; } /* '' */
 .icon-github:before { content: '\f09b'; } /* '' */
 .icon-circle:before { content: '\f111'; } /* '' */
 .icon-weibo:before { content: '\f18a'; } /* '' */
